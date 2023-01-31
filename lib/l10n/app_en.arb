@@ -1,0 +1,21 @@
+{
+  "currentLanguage":"English",
+  "grammar": "Grammar",
+  "paraphrase":"Paraphrase",
+  "translate":"Translate",
+  "setting":"Settings",
+  "check":"Check",
+  "result":"Result",
+  "requireMessage": "Please type content",
+  "warningExit":"Click again to exit the application",
+  "typeCheckGrammar": "Click to enter the text that needs to be corrected for English Grammar",
+  "typeParaphrase": "Click to enter the text that needs to be Paraphrase",
+  "typeTranslate": "Click to enter the text that needs to be Translate",
+  "errorMessage": "An error occurred, please try again later!",
+  "saveMessage": "Saved successfully!",
+  "disconnectMessage": "No connection, please turn on the network and try again later!",
+  "doneGrammar": "Looks good. No mistakes were found!",
+  "darkTheme": "Dark Theme",
+  "language": "Language",
+  "cancel": "Cancel"
+}

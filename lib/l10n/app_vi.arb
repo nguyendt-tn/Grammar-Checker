@@ -1,0 +1,21 @@
+{
+  "currentLanguage":"Tiếng Việt",
+  "grammar": "Ngữ pháp",
+  "paraphrase":"Viết lại câu",
+  "translate":"Dịch",
+  "setting":"Cài đặt",
+  "check":"Kiểm tra",
+  "result":"Kết quả",
+  "requireMessage": "Vui lòng nhập nội dung",
+  "warningExit": "Bấm lần nữa để thoát ứng dụng",
+  "typeCheckGrammar": "Nhấn để nhập văn bản cần sửa lỗi ngữ pháp tiếng Anh",
+  "typeParaphrase": "Nhấn để nhập văn bản cần viết lại",
+  "typeTranslate": "Nhấn để nhập văn bản cần dịch",
+  "errorMessage": "Có lỗi xảy ra, vui lòng thử lại sau!",
+  "saveMessage": "Đã lưu thành công",
+  "disconnectMessage": "Không có kết nối, vui lòng bật mạng và thử lại sau!",
+  "doneGrammar": "Có vẻ tốt. Không có sai lầm đã được tìm thấy.",
+  "darkTheme": "Giao diện tối",
+  "language": "Ngôn ngữ",
+  "cancel": "Hủy"
+}
