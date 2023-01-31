@@ -8,21 +8,21 @@
 
 ## Download
 
-Download the apk file [here](resources/app-release.apk) and install it on your phone
+Download the apk file [here](https://github.com/nguyendt-tn/Grammar-Checker/raw/main/resources/app-release.apk) and install it on your phone
 
 ## Interface
 
-<img width="300" src=".\resources\ss01.jpg"></a>
-<img width="300" src=".\resources\ss02.jpg"></a>
-<img width="300" src=".\resources\ss03.jpg"></a>
-<img width="300" src=".\resources\ss04.jpg"></a>
-<img width="300" src=".\resources\ss05.jpg"></a>
-<img width="300" src=".\resources\ss06.jpg"></a>
-<img width="300" src=".\resources\ss07.jpg"></a>
-<img width="300" src=".\resources\ss08.jpg"></a>
-<img width="300" src=".\resources\ss09.jpg"></a>
-<img style="box-shadow:0 10px 16px 0 #555" width="300" src=".\resources\ss10.jpg"></a>
-<img style="box-shadow:0 10px 16px 0 #555" width="300" src=".\resources\ss11.jpg"></a>
+<kbd><img width="250" src=".\resources\ss01.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss02.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss03.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss04.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss05.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss06.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss07.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss08.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss09.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss10.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss11.jpg"></a><kbd>
 
 ## Contributors
 
