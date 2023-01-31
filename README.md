@@ -12,17 +12,17 @@ Download the apk file [here](https://github.com/nguyendt-tn/Grammar-Checker/raw/
 
 ## Interface
 
-<kbd><img width="250" src=".\resources\ss01.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss02.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss03.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss04.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss05.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss06.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss07.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss08.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss09.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss10.jpg"></a><kbd>
-<kbd><img width="250" src=".\resources\ss11.jpg"></a><kbd>
+<kbd><img width="250" src=".\resources\ss01.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss02.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss03.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss04.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss05.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss06.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss07.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss08.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss09.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss10.jpg"></a></kbd>
+<kbd><img width="250" src=".\resources\ss11.jpg"></a></kbd>
 
 ## Contributors
 
