@@ -12,7 +12,7 @@ import 'package:grammar/core/constants/color_constants.dart';
 import 'package:grammar/core/constants/language_constants.dart';
 import 'package:grammar/core/constants/dismension_constants.dart';
 import 'package:grammar/core/helpers/api_helper.dart';
-import 'package:grammar/core/representation/models/grammar.dart';
+import 'package:grammar/core/models/grammar.dart';
 import 'package:provider/provider.dart';
 
 class GrammarCheckResultScreen extends StatefulWidget {

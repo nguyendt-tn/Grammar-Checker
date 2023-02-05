@@ -12,15 +12,17 @@ class SpeechHelper {
       onStatus: (status) => onListening(_speech.isListening),
       onError: (e) {
         _speech.stop();
-        return print("Stop");
+        return debugPrint("Stop");
       },
     );
 
     if (isAvailable) {
-      _speech.listen(onResult: (value) => onResult(value.recognizedWords));
+      _speech.listen(
+          onResult: (value) => onResult(value.recognizedWords),
+          localeId: 'en-GB');
       return isAvailable;
     } else {
-      print("The user has denied the use of speech recognition.");
+      debugPrint("The user has denied the use of speech recognition.");
     }
     _speech.stop();
     return false;

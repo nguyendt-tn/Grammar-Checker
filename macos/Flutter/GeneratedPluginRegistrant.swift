@@ -10,7 +10,7 @@ import audioplayers
 import connectivity_macos
 import flutter_tts
 import just_audio
-import path_provider_macos
+import path_provider_foundation
 import shared_preferences_foundation
 import speech_to_text_macos
 import sqflite

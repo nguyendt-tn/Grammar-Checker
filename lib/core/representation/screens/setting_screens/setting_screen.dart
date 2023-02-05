@@ -8,7 +8,7 @@ import 'package:grammar/core/constants/color_constants.dart';
 import 'package:grammar/core/constants/dismension_constants.dart';
 import 'package:grammar/core/constants/language_constants.dart';
 import 'package:grammar/core/provider/theme_provider.dart';
-import 'package:grammar/core/representation/models/language.dart';
+import 'package:grammar/core/models/language.dart';
 import 'package:grammar/core/representation/widgets/item_setting_widget.dart';
 import 'package:grammar/main.dart';
 
@@ -353,7 +353,7 @@ class _SettingScreenState extends State<SettingScreen> {
                               )),
                           ItemSettingWidget(
                             icon: Icons.star,
-                            title: "Rate us",
+                            title: translation(context).rateUs,
                             language: "",
                             ontap: () {
                               _launchURL("https://example.com/");
@@ -361,7 +361,7 @@ class _SettingScreenState extends State<SettingScreen> {
                           ),
                           ItemSettingWidget(
                             icon: Icons.feedback,
-                            title: "Feedback",
+                            title: translation(context).feedback,
                             language: "",
                             ontap: () {
                               Uri emailLaunchUri = Uri(
@@ -377,7 +377,7 @@ class _SettingScreenState extends State<SettingScreen> {
                           ),
                           ItemSettingWidget(
                             icon: Icons.privacy_tip,
-                            title: "Privacy",
+                            title: translation(context).feedback,
                             language: "",
                             ontap: () {
                               _launchURL("https://example.com/");
@@ -385,7 +385,7 @@ class _SettingScreenState extends State<SettingScreen> {
                           ),
                           ItemSettingWidget(
                             icon: Icons.lock,
-                            title: "Terms",
+                            title: translation(context).terms,
                             language: "",
                             ontap: () {
                               _launchURL("https://example.com/");
